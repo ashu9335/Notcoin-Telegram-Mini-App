@@ -70,7 +70,4 @@ To get started with either the initial setup or the final version, follow these 
 
     Navigate to localhost to see the final version of the application.
 
-## Contact
-
-For any inquiries, please contact me in Telegram: [Nikandr Surkov](https://t.me/nikandr_s).
 
